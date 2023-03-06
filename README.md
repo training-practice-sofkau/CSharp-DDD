@@ -1,6 +1,6 @@
 # CSharp-DDD
 
-### IMplementacion DDD Básica
+### Implementacion DDD Básica
 
 #### Capa Dominio
 - Entidades
