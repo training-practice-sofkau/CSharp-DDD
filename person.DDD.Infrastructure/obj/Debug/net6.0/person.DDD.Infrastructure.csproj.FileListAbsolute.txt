@@ -1,0 +1,15 @@
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.AssemblyInfo.cs
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\bin\Debug\net6.0\person.DDD.Infrastructure.deps.json
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\bin\Debug\net6.0\person.DDD.Infrastructure.dll
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\bin\Debug\net6.0\person.DDD.Infrastructure.pdb
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\bin\Debug\net6.0\person.DDD.Domain.dll
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\bin\Debug\net6.0\person.DDD.Domain.pdb
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.csproj.CopyComplete
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.dll
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\refint\person.DDD.Infrastructure.dll
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\person.DDD.Infrastructure.pdb
+C:\Users\adryan.ynfante\source\repos\backend\person.DDD\person.DDD.Infrastructure\obj\Debug\net6.0\ref\person.DDD.Infrastructure.dll

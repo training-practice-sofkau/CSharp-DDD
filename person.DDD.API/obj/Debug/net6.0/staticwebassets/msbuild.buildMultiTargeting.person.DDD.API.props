@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\person.DDD.API.props" />
+</Project>
